@@ -20,6 +20,9 @@ author: Some Person
 ###############################################
 
 navbar-links:
+  url: "http://EvaChaos.github.io/beautiful-jekyll"
+  baseurl:"/beautiful-jekyll"
+
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
